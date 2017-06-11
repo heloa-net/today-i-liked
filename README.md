@@ -7,3 +7,4 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### June 11, 2017
 - [Create a Horizontal Parallax ScrollView in React Native - react Video Tutorial #free @eggheadio](https://egghead.io/lessons/react-create-a-horizontal-parallax-scrollview-in-react-native) 
+- [DevDocs API Documentation](http://devdocs.io/) 
