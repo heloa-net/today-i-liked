@@ -12,3 +12,6 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### June 12, 2017
 - [React Native: Create a Swipe Panel - react Video Tutorial #pro @eggheadio](https://egghead.io/lessons/react-react-native-create-a-swipe-panel) 
+
+### June 21, 2017
+- [Facebook](https://web.facebook.com/?_rdc=1&_rdr) 
