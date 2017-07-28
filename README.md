@@ -12,3 +12,6 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### June 12, 2017
 - [React Native: Create a Swipe Panel - react Video Tutorial #pro @eggheadio](https://egghead.io/lessons/react-react-native-create-a-swipe-panel)
+
+### July 28, 2017 
+- [Donate your voice so Siri doesn’t just work for white men | New Scientist](https://www.newscientist.com/article/2141940-donate-your-voice-so-siri-doesnt-just-work-for-white-men/) 
