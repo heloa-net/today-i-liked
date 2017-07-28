@@ -17,3 +17,4 @@ Articles, videos and other development and design-related stuff that I liked.
 - [Donate your voice so Siri doesn’t just work for white men | New Scientist](https://www.newscientist.com/article/2141940-donate-your-voice-so-siri-doesnt-just-work-for-white-men/) 
 - [How I built an Interactive 30-Day Bitcoin Price Graph with React and an API](https://codeburst.io/how-i-built-an-interactive-30-day-bitcoin-price-graph-with-react-and-an-api-6fe551c2ab1d) 
 - [Project Common Voice | Mozilla](https://voice.mozilla.org/) 
+- [AI coach will train hopeless chatbots to pass the Turing test | New Scientist](https://www.newscientist.com/article/2140809-ai-coach-will-train-hopeless-chatbots-to-pass-the-turing-test/) 
