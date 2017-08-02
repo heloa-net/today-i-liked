@@ -24,3 +24,4 @@ Articles, videos and other development and design-related stuff that I liked.
 - [Por que ninguém se importa com seu novo projeto open source? by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/por-que-ninguem-se-importa-com-seu-novo-projeto-open-source) 
 - [How to lose weight (in the browser)](https://browserdiet.com/) 
 - [Como investir em... você! by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/como-investir-em-dot-dot-dot-voce) 
+- [Web APIs you (probably) didn't know existed by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/web-apis-you-probably-didnt-know-existed) 
