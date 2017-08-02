@@ -22,3 +22,4 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### August 2, 2017 
 - [Por que ninguém se importa com seu novo projeto open source? by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/por-que-ninguem-se-importa-com-seu-novo-projeto-open-source) 
+- [How to lose weight (in the browser)](https://browserdiet.com/) 
