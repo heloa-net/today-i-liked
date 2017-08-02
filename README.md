@@ -21,4 +21,4 @@ Articles, videos and other development and design-related stuff that I liked.
 - [openai/baselines: OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines) 
 
 ### August 2, 2017 
-- [Por que ninguém se importa com seu novo projeto open source? by Zeno Rocha // Speaker Deck](https://speakerdeck.com/zenorocha/por-que-ninguem-se-importa-com-seu-novo-projeto-open-source) 
+- [Por que ninguém se importa com seu novo projeto open source? by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/por-que-ninguem-se-importa-com-seu-novo-projeto-open-source) 
