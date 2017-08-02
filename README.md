@@ -19,3 +19,6 @@ Articles, videos and other development and design-related stuff that I liked.
 - [Project Common Voice | Mozilla](https://voice.mozilla.org/) 
 - [AI coach will train hopeless chatbots to pass the Turing test | New Scientist](https://www.newscientist.com/article/2140809-ai-coach-will-train-hopeless-chatbots-to-pass-the-turing-test/) 
 - [openai/baselines: OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines) 
+
+### August 2, 2017 
+- [Por que ninguém se importa com seu novo projeto open source? by Zeno Rocha // Speaker Deck](https://speakerdeck.com/zenorocha/por-que-ninguem-se-importa-com-seu-novo-projeto-open-source) 
