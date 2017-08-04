@@ -25,3 +25,6 @@ Articles, videos and other development and design-related stuff that I liked.
 - [How to lose weight (in the browser)](https://browserdiet.com/) 
 - [Como investir em... você! by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/como-investir-em-dot-dot-dot-voce) 
 - [Web APIs you (probably) didn't know existed by @zenorocha // Speaker Deck](https://speakerdeck.com/zenorocha/web-apis-you-probably-didnt-know-existed) 
+
+### August 4, 2017 
+- [AMA with André @staltz - Hashnode](https://hashnode.com/ama/with-andre-staltz-cj5mx456r00rl8hwuzjpydy77) 
