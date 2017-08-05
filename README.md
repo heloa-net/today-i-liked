@@ -29,3 +29,6 @@ Articles, videos and other development and design-related stuff that I liked.
 ### August 4, 2017 
 - [AMA with André @staltz - Hashnode](https://hashnode.com/ama/with-andre-staltz-cj5mx456r00rl8hwuzjpydy77) 
 - [TDD the RITE Way by @ericelliott – JavaScript Scene – Medium](https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3) 
+
+### August 5, 2017 
+- [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) 
