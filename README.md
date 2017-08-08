@@ -35,3 +35,4 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### August 8, 2017 
 - [Airbnb React/JSX Style Guide @airbnb](https://github.com/airbnb/javascript/tree/master/react) 
+- [React Animations in Depth by @dabit3 – React Native Training – Medium](https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e) 
