@@ -32,3 +32,6 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### August 5, 2017 
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) 
+
+### August 8, 2017 
+- [Airbnb React/JSX Style Guide @airbnb](https://github.com/airbnb/javascript/tree/master/react) 
