@@ -1,6 +1,9 @@
 # today-i-liked
 Articles, videos and other development and design-related stuff that I liked.
 
+
+### September 17, 2018 
+- [Discover the power of first class functions – freeCodeCamp.org](https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69) 
 ### June 10, 2017
 - [Style an Application from Start to Finish - Course by @garthdb @eggheadio](https://egghead.io/courses/style-an-application-from-start-to-finish) 
 - [Flexbox Fundamentals * - Course by @garthdb @eggheadio](https://egghead.io/courses/flexbox-fundamentals) 
