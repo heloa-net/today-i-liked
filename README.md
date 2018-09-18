@@ -2,6 +2,9 @@
 Articles, videos and other development and design-related stuff that I liked.
 
 
+
+### September 18, 2018 
+- [Reconciliation – React](https://reactjs.org/docs/reconciliation.html#recursing-on-children) 
 ### September 17, 2018 
 - [Discover the power of first class functions – freeCodeCamp.org](https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69) 
 ### June 10, 2017
