@@ -3,6 +3,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### September 21, 2018 
+- [Callback Hell](http://callbackhell.com/) 
 ### September 18, 2018 
 - [Reconciliation – React](https://reactjs.org/docs/reconciliation.html#recursing-on-children) 
 ### September 17, 2018 
