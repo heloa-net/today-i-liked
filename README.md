@@ -7,6 +7,7 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### October 4, 2018 
 - [kriasoft/isomorphic-style-loader: CSS style loader for Webpack that is optimized for isomorphic (universal) web apps](https://github.com/kriasoft/isomorphic-style-loader) 
+- [addyosmani/critical-path-css-tools: Tools to prioritize above-the-fold (critical-path) CSS](https://github.com/addyosmani/critical-path-css-tools) 
 ### September 21, 2018 
 - [Callback Hell](http://callbackhell.com/) 
 ### September 18, 2018 
