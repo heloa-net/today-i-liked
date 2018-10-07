@@ -5,6 +5,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### October 7, 2018 
+- [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
 ### October 4, 2018 
 - [kriasoft/isomorphic-style-loader: CSS style loader for Webpack that is optimized for isomorphic (universal) web apps](https://github.com/kriasoft/isomorphic-style-loader) 
 - [addyosmani/critical-path-css-tools: Tools to prioritize above-the-fold (critical-path) CSS](https://github.com/addyosmani/critical-path-css-tools) 
