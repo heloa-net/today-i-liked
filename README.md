@@ -6,6 +6,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### October 8, 2018 
+- [viewBox - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox) 
 ### October 7, 2018 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
 ### October 4, 2018 
