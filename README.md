@@ -7,6 +7,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### October 11, 2018 
+- [Event Bubbling and Event Capturing in JavaScript – Vaibhav Sharma – Medium](https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e) 
 ### October 8, 2018 
 - [viewBox - SVG: Scalable Vector Graphics | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox) 
 ### October 7, 2018 
