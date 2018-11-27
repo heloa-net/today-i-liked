@@ -8,6 +8,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### November 27, 2018 
+- [GitHub - zv/SICP-guile: SICP in Guile & Emacs Lisp](https://github.com/zv/SICP-guile) 
 ### October 11, 2018 
 - [Event Bubbling and Event Capturing in JavaScript – Vaibhav Sharma – Medium](https://medium.com/@vsvaibhav2016/event-bubbling-and-event-capturing-in-javascript-6ff38bec30e) 
 ### October 8, 2018 
