@@ -9,6 +9,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### December 7, 2018 
+- [Understanding Model-View-Controller](https://blog.codinghorror.com/understanding-model-view-controller/) 
 ### November 27, 2018 
 - [GitHub - zv/SICP-guile: SICP in Guile & Emacs Lisp](https://github.com/zv/SICP-guile) 
 ### October 11, 2018 
