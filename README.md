@@ -10,6 +10,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### December 16, 2018 
+- [BUILD YOUR OWN WEBPACK by Ronen Amiel - YouTube](https://www.youtube.com/watch?v=Gc9-7PBqOC8) 
 ### December 7, 2018 
 - [Understanding Model-View-Controller](https://blog.codinghorror.com/understanding-model-view-controller/) 
 ### November 27, 2018 
