@@ -11,6 +11,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### January 7, 2019 
+- [Comparing bundlers: Webpack, Rollup & Parcel – js@imaginea – Medium](https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd) 
 ### December 16, 2018 
 - [BUILD YOUR OWN WEBPACK by Ronen Amiel - YouTube](https://www.youtube.com/watch?v=Gc9-7PBqOC8) 
 - [Webpack Concepts](https://webpack.js.org/concepts/) 
