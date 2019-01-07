@@ -17,6 +17,7 @@ Articles, videos and other development and design-related stuff that I liked.
 - [Code Splitting - Webpack docs](https://webpack.js.org/guides/code-splitting/) 
 - [Lazy Loading - Webpack docs](https://webpack.js.org/guides/lazy-loading/) 
 - [The 100% correct way to split your chunks with Webpack](https://hackernoon.com/the-100-correct-way-to-split-your-chunks-with-webpack-f8a9df5b7758) 
+- [Asset Management - Webpack docs](https://webpack.js.org/guides/asset-management/) 
 ### December 16, 2018 
 - [BUILD YOUR OWN WEBPACK by Ronen Amiel - YouTube](https://www.youtube.com/watch?v=Gc9-7PBqOC8) 
 - [Webpack Concepts](https://webpack.js.org/concepts/) 
