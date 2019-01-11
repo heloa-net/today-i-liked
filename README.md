@@ -12,6 +12,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### January 11, 2019 
+- [yahoo/fetchr: Universal data access layer for web applications.](https://github.com/yahoo/fetchr) 
 ### January 7, 2019 
 - [Comparing bundlers: Webpack, Rollup & Parcel – js@imaginea – Medium](https://medium.com/js-imaginea/comparing-bundlers-webpack-rollup-parcel-f8f5dc609cfd) 
 - [Code Splitting - Webpack docs](https://webpack.js.org/guides/code-splitting/) 
