@@ -13,6 +13,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### January 15, 2019 
+- [Web Design & UI Inspiration with Code Snippets Ξ ℂ𝕠𝕕𝕖𝕄𝕪𝕌𝕀](https://codemyui.com/) 
 ### January 11, 2019 
 - [yahoo/fetchr: Universal data access layer for web applications.](https://github.com/yahoo/fetchr) 
 - [Cross-Origin Resource Sharing (CORS) | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) 
