@@ -17,6 +17,7 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### January 21, 2019 
 - [What is an isomorphic application? | Lullabot](https://www.lullabot.com/articles/what-is-an-isomorphic-application) 
+- [Why Everyone is Talking About Isomorphic / Universal JavaScript and Why it Matters](https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905) 
 ### January 15, 2019 
 - [Web Design & UI Inspiration with Code Snippets Ξ ℂ𝕠𝕕𝕖𝕄𝕪𝕌𝕀](https://codemyui.com/) 
 ### January 11, 2019 
