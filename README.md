@@ -14,6 +14,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### January 21, 2019 
+- [What is an isomorphic application? | Lullabot](https://www.lullabot.com/articles/what-is-an-isomorphic-application) 
 ### January 15, 2019 
 - [Web Design & UI Inspiration with Code Snippets Ξ ℂ𝕠𝕕𝕖𝕄𝕪𝕌𝕀](https://codemyui.com/) 
 ### January 11, 2019 
