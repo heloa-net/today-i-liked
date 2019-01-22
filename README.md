@@ -15,6 +15,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### January 22, 2019 
+- [JavaScript data types and data structures | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) 
 ### January 21, 2019 
 - [What is an isomorphic application? | Lullabot](https://www.lullabot.com/articles/what-is-an-isomorphic-application) 
 - [Why Everyone is Talking About Isomorphic / Universal JavaScript and Why it Matters](https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905) 
