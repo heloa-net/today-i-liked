@@ -19,6 +19,7 @@ Articles, videos and other development and design-related stuff that I liked.
 
 ### January 24, 2019 
 - [Creating and Evolving a Cross-Platform System at Scale — RETHINK](https://www.rethinkhq.com/videos/systematic-cross-platform-design/karri-saarinen-airbnb) 
+- [Brad Frost: Atomic Design JoomlaDay Denver 2016](https://www.youtube.com/watch?v=VVUpVVWZULw&amp=&t=14s) 
 ### January 22, 2019 
 - [JavaScript data types and data structures | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) 
 ### January 21, 2019 
