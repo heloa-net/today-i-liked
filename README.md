@@ -20,6 +20,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### March 20, 2019 
+- [How to convince your boss to use React Native / frantic.im](http://frantic.im/how-to-convince-your-boss-to-use-react-native) 
 ### March 12, 2019 
 - [Native UI Components · React Native docs](https://facebook.github.io/react-native/docs/native-components-ios) 
 ### February 7, 2019 
