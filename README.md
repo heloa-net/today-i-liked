@@ -23,6 +23,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### July 2, 2019 
+- [Installing Python Pip on Mac OSX - YouTube](https://www.youtube.com/watch?v=yBdZZGPpYxg) 
 ### June 26, 2019 
 - [Cygra/excellent-RN-libs: 📚A collection of excellent React Native Libraries.](https://github.com/Cygra/excellent-RN-libs) 
 - [uber-archive/coding-challenge-tools: Uber's tools team coding challenge](https://github.com/uber-archive/coding-challenge-tools) 
