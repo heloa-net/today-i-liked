@@ -24,6 +24,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### July 11, 2019 
+- [Spice Program - An open source and social impact program sponsored by Futurice](https://spiceprogram.org/) 
 ### July 2, 2019 
 - [Installing Python Pip on Mac OSX - YouTube](https://www.youtube.com/watch?v=yBdZZGPpYxg) 
 - [Installing Python Pip on Mac OSX - YouTube](https://www.youtube.com/watch?v=yBdZZGPpYxg) 
