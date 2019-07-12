@@ -25,6 +25,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### July 12, 2019 
+- [Dockerizing a Node.js web app | Node.js](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/) 
 ### July 11, 2019 
 - [Spice Program - An open source and social impact program sponsored by Futurice](https://spiceprogram.org/) 
 ### July 2, 2019 
