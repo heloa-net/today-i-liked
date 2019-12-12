@@ -26,6 +26,9 @@ Articles, videos and other development and design-related stuff that I liked.
 
 
 
+
+### December 12, 2019 
+- [Seva Zaikov - How to Cancel Your Promise](https://blog.bloomca.me/2017/12/04/how-to-cancel-your-promise.html) 
 ### July 12, 2019 
 - [Dockerizing a Node.js web app | Node.js](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/) 
 ### July 11, 2019 
